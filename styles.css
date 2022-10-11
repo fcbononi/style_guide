@@ -1,0 +1,179 @@
+
+.title {
+  font-family: Helvetica;
+  font-size: 36px;
+  color: #1962B6;
+  text-align: center;
+}
+
+.colors {
+  font-family: Helvetica;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 10px 15px;
+  text-align: center;
+
+}
+
+.colors h2 {
+  font-size: 32px;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.color-container {
+  display: flex;
+  justify-content: center;
+
+}
+
+
+
+
+.fonts {
+  font-family: Helvetica;
+  border: 2px solid black;
+  margin: 20px;
+  text-align: center;
+}
+
+.font-container1 {
+  display: flex;
+  justify-content: center;
+  font-size: 16px;
+}
+
+.font-container2 {
+  display: flex;
+  justify-content: center;
+  font-size: 16px;
+}
+.fonts h2 {
+  font-size: 32px;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.helvetica {
+  padding: 15px;
+  margin: 5px;
+  border: 1px solid gray;
+  font-family: Helvetica;
+}
+
+.century_gothic {
+  padding: 15px;
+  margin: 5px;
+  border: 1px solid gray;
+  font-family: 'Century Gothic';
+}
+
+.goudy_old_style {
+  padding: 15px;
+  margin: 5px;
+  border: 1px solid gray;
+  font-family: 'Goudy Old Style';
+}
+
+.courier_new {
+  padding: 15px;
+  margin: 5px;
+  border: 1px solid gray;
+  font-family: 'Courier New';
+}
+
+.impact {
+  padding: 20px;
+  margin: 5px;
+  border: 1px solid gray;
+  font-family: 'Impact';
+}
+
+.blippo {
+  padding: 20px;
+  margin: 5px;
+  border: 1px solid gray;
+  font-family: Blippo;
+
+}
+
+.brush_script {
+  padding: 20px;
+  margin: 5px;
+  border: 1px solid gray;
+  font-family: "Brush Script MT"
+}
+
+#style_title {
+  font-size: 32px;
+  font-weight: bold;
+  text-decoration: underline;
+  text-align: center;
+}
+.style-container {
+  font-family: Helvetica;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 0 15px;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.blue {
+  background-color: #21A9D8;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  font-weight: bold;
+  margin: 10px;
+
+}
+
+.red {
+  background-color: #D84121;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+  font-weight: bold;
+}
+
+.teal {
+  background-color: #2AC9C8;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  font-weight: bold;
+  margin: 10px;
+}
+.pink {
+  background-color: #C92A7E;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  font-weight: bold;
+  margin: 10px;
+}
+
+
+.h1 {
+  padding: 20px;
+}
+
+.h2 {
+  padding: 20px;
+}
+
+.h3 {
+  padding: 20px;
+}
+
+.p {
+  padding: 20px;
+}
